@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "weedcobot",
+  "private_key_id": "75fbe1d974c84130caf5d9045767c7580fdc678b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIBTdBOK58CTxO\npB5S2XC0jcvT2cFXJKHhg1TPPjifGfKBDkbSTpn9NhR3mJZ4TgqkYwBJa2wTWEq0\nmDETht7nepGzCqDch/x9FDVj1/6JroV8uYShnYgTgZhOqSTEg/8dY1mXdHTGrrQt\nH4Wpep1gD63JbdCX5sRhdShIxDiFF0daWmatamIFSk5ejcat/W1zp4PkAV1R7IpB\nhv1p7v1R+BUMN2Z5UiWlSAVrmDaZrbcHC5/OjEED1x9DMEQVnJqPvVZ4gSWYwr39\n7Ey93nWcKsw6wQtpiK0I7KUA97zI31tnqcDBTgZAM4AI45j1OAJsVIZc0Aeqasga\nkejAxfgdAgMBAAECggEAC5ZFw6j5bqUIUdPvD8SZ41O9hYm9SgOMvygg/xpvJERY\nCILftmooQINj/yOfP9vhgPFdQGORMLOyLDEO0r9C5WzzyMfqVqwoA8TqbNzD2Yz7\nHaUPml8qVVryDEh/IUU2P6kUNRJhe2r+dAi58P3x5PEzk5IhfdM3+B9V1JVNYuRC\ncPRd9HCogPETNNvFAl9RrfAcfhcodHG7uPaXyJ22AmY92YzWIhk7X7hdfeExGvTs\nj7heEPiOzrboY+5rvPLWbm+ZW+4T0QjRYIKg+5+n4ip5UxBJNMGIF43AsTsQu8Wc\nPk/xEyK8iN3hZSmlpkhhIbQSbLKZ18K9wjs2552lfwKBgQD9+xMwQsJyRdZBJ8Dy\nzd5DvNv90Q1w6lSvPX5c1Ql5ZrwSp8WM4GNKo+w0jpx2gLfQnEBnHmTwJakN+WUt\nGLfiTMzBek9JQWN21+IHeJy141IvIGou48FH7rR/U91nbP1DudIgN/ZZiHndkIqP\nHICgoJoeYbdnPO1ZCg6Qn73Y9wKBgQDJnFDT2KCoZk4LZd5EcPC7yPKr/XdPDHK5\nSYiGvdxnWsgDFKlvIQRVfv/Tiz7G/8X0q0Mgl7Oeu1Zq6g4Az+DiYxoiDj9dKOdK\nkL+gHbuyUL43HJc9SFVp86A1qIivl4k30J+8HECrXLMcJUVCoLacwhsGhopyWSds\nxhJSTsemiwKBgHD6nCmOuPKeUFXBelpH68RUIcRBl2oQQ0WE5E4lUkaXxbfCu+UT\n9/c+/hbPDZjFX39D0n5MjfgpuI8HztMFuN7I7Rhv8Q8UMEuwctKB+6wJiAiAsdtT\n4ym9bLtrMgUM/YiAA5HjcwmW5ScDYi+RLULGzmgPbcdV2fsOtzXsaUY3AoGBAKSd\nfKWtAGjft6O41oYdjYJWrkZeW/dwW5AMiWwzQ+4kAqH5UesKE2bXnn0U+fo0R2bi\nG5pWI3Rc1E/RsgNZuO5AKstZxMUFK+0HSV+sR2BuaxHGx3pjQFKVeN+3L3voCENJ\nldNbYjZJJ3m4uNeRL+nI15Y5bnu1bepzw+vupTfHAoGAIpFkI48Nf/DY42fT6yIt\nofAGNoPOT8wuSdVN9ziQ1U7hSYyVd2pEXtut2bG9D9mAvxPMZbeCKeK1qeZLTZst\nT+vvCaEqky7s9lZlC2Nv1PJB+flyzDIq7Y5h+LXzmqk9zFqaKAMavjjoNT5vNcv6\nsLmZJUU3cZAJHVONt5yZqZk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-y15yk@weedcobot.iam.gserviceaccount.com",
+  "client_id": "111344429663819335393",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-y15yk%40weedcobot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
